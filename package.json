@@ -1,0 +1,13 @@
+{
+  "name": "mtg-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Magic: The Gathering card lookups via [[card name]] syntax",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
